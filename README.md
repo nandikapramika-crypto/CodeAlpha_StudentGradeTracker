@@ -1,2 +1,15 @@
-# CodeAlpha_StudentGradeTracker
-Java-based Students Grade Tracker using OOP's concepts and ArrayList 
+# CodeAlpha_Student Grade Tracker
+
+Java-based Student Grade Tracker using OOP concepts and ArrayList.
+
+## Features
+- Add Student
+- View Student Report
+- Calculate Average Mark
+- Highest and Lowest Mark
+- Grade Calculation
+
+## Technologies Used
+- Java
+- OOP
+- ArrayList
